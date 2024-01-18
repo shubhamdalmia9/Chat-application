@@ -53,6 +53,36 @@ Start the Client
   npm start
 ```
 
+
+# Features
+
+### Authenticaton
+
+![](https://github.com/shubhamdalmia9/Chat-application/blob/master/screenshots/login.PNG)
+![](https://github.com/shubhamdalmia9/Chat-application/blob/master/screenshots/signup.PNG)
+
+### Real Time Chatting with Typing indicators
+
+![](https://github.com/shubhamdalmia9/Chat-application/blob/master/screenshots/real-time.PNG)
+
+### One to One chat
+
+![](https://github.com/shubhamdalmia9/Chat-application/blob/master/screenshots/mainscreen.PNG)
+
+### Search Users
+
+![](https://github.com/shubhamdalmia9/Chat-application/blob/master/screenshots/search.PNG)
+
+### Create Group Chats
+
+![](https://github.com/shubhamdalmia9/Chat-application/blob/master/screenshots/new%20grp.PNG)
+
+### Notifications
+
+![](https://github.com/shubhamdalmia9/Chat-application/blob/master/screenshots/group%20%2B%20notif.PNG)
+
+
+
   
 ## Made By
 
