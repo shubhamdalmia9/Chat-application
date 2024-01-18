@@ -54,10 +54,8 @@ Start the Client
 ```
 
   
-
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
 ## Made By
 
-- [@Piyush-eon](https://github.com/piyush-eon)
+- [@ShubhamDalmia](https://github.com/shubhamdalmia9)
 
   
